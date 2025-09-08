@@ -3,21 +3,7 @@
 <html>
 <head>
     <title>学生科技管理系统-登入</title>
-    <style>
-        body{
-            background-color: #a7feff;
-            font-family: "Microsoft JhengHei";
-            display: flex;
-            justify-content: center;
-        align-items: center;
-            height: 100%;
-            margin: 0;
-        }
-        .container{
-            text-align: center;
-        }
-
-    </style>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 <h1><%= "Hello World!" %>
